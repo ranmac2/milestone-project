@@ -92,11 +92,20 @@ h2 span {
 .rogue {
 	height: 450px;
 }
+.unplugged {
+	height: 450px;
+}
 .jubilee {
 	height: 450px;
 }
 .number-guesser {
 	height: 450px;
+}
+.magic-8-ball {
+	height: 450px;
+}
+.magic-8-ball img {
+	margin-bottom: 155px;
 }
 
 /***** ABOUT *****/
