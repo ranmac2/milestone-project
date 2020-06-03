@@ -144,14 +144,11 @@ h2 span {
 	font-weight: 400;
 	text-align: center;
 }
-#contact ul {
-
-}
 #contact ul li {
 	display: inline;
 }
 #contact ul li a {
-	padding-left: 25px;
+	padding-left: 61px;
 }
 #contact img {
 	padding: 0 30px 30px 0;
